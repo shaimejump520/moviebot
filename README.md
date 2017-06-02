@@ -8,4 +8,3 @@ telegram
 execution:
   python3 app.py
   
-fsm:
